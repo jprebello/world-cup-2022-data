@@ -1,11 +1,10 @@
 import './App.css'
+import NavBar from './components/NavBar'
 
 function App() {
   return (
     <>
-      <section id="center">
-        <h1>Qatar 2022</h1>
-      </section>
+      <NavBar />
     </>
   )
 }
