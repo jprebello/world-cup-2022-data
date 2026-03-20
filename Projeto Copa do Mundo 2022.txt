@@ -1,0 +1,23 @@
+Projeto Copa do Mundo 2022
+
+✓ 1) Coleta de dados: https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset
+
+✓ 2) Limpeza: pandas
+
+3) Processamento:
+✓ duplicar a base -> duas linhas por jogo
+✓ tipagem
+✓ registro de cada time na competição
+✓ registros gerais da competição
+3 JSONs:
+✓	3.1 - partidas
+✓	3.2 - times
+✓	3.3 - geral
+
+4) Prototipagem do Front com dados estáticos: React (vite, Tailwind, TanStack)
+
+5) Criação do dashboard interativo: Recharts e/ou Tremor
+
+
+
+

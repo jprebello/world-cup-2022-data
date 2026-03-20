@@ -1,0 +1,25 @@
+[
+    {
+        "total_matches":64,
+        "total_goals":172,
+        "goals_avg":2.69,
+        "best_goal_conversion_rate_team":"COSTA RICA",
+        "best_goal_conversion_rate":25.0,
+        "most_cards_received_team":"ARGENTINA",
+        "most_cards_received":16,
+        "best_attack_team":"FRANCE",
+        "best_attack_goals":16,
+        "best_defense_team":"TUNISIA",
+        "best_defense_goals_against":1,
+        "assisted_goals_team":"FRANCE",
+        "assisted_goals_value":12,
+        "most_possession_avg_team":"SPAIN",
+        "most_possession_avg_value":69.0,
+        "best_passes_accuracy_pct_team":"SPAIN",
+        "best_passes_accuracy_pct_value":92.0,
+        "most_fouls_committed_team":"ARGENTINA",
+        "most_fouls_committed_value":100,
+        "clean_sheets_team":"MOROCCO",
+        "clean_sheets_value":4
+    }
+]
