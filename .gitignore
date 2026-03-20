@@ -1,5 +1,15 @@
-# Ignorar ambiente virtual
+# Ambiente virtual
 ./py/venv/
 
-# Ignorar arquivo de organização
+# Arquivo de organização
 Projeto Copa do Mundo 2022.txt
+
+# Dependências
+node_modules/
+.pnp
+.pnp.js
+
+# Build
+dist/
+dist-ssr/
+*.local
