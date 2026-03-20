@@ -1,0 +1,5 @@
+# Ignorar ambiente virtual
+./py/venv/
+
+# Ignorar arquivo de organização
+Projeto Copa do Mundo 2022.txt

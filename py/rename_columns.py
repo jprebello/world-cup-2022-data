@@ -1,6 +1,6 @@
 import pandas as pd
 
-def load_and_rename_data(path="./data/Fifa_world_cup_matches.csv"):
+def load_and_rename_data(path="../data/Fifa_world_cup_matches.csv"):
     df = pd.read_csv(path)
 
     correcoes = {

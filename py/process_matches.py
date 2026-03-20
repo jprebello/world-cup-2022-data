@@ -66,43 +66,4 @@ def process_matches(df):
     df_matches["possession_contest"] = df_matches["possession_contest"].apply(str_float)
     df_matches["date"] = pd.to_datetime(df_matches["date"], format="%d %b %Y")
 
-    # flags
-    flags = {
-        "QATAR" : "https://flagcdn.com/qa.svg",
-        "ENGLAND" : "https://flagcdn.com/gb-eng.svg",
-        "SENEGAL" : "https://flagcdn.com/sn.svg",
-        "UNITED STATES" : "https://flagcdn.com/us.svg",
-        "ARGENTINA" : "https://flagcdn.com/ar.svg",
-        "DENMARK" : "https://flagcdn.com/dk.svg",
-        "MEXICO" : "https://flagcdn.com/mx.svg",
-        "FRANCE" : "https://flagcdn.com/fr.svg",
-        "MOROCCO" : "https://flagcdn.com/ma.svg",
-        "GERMANY" : "https://flagcdn.com/de.svg",
-        "SPAIN" : "https://flagcdn.com/es.svg",
-        "BELGIUM" : "https://flagcdn.com/be.svg",
-        "SWITZERLAND" : "https://flagcdn.com/ch.svg",
-        "URUGUAY" : "https://flagcdn.com/uy.svg",
-        "PORTUGAL" : "https://flagcdn.com/pt.svg",
-        "BRAZIL" : "https://flagcdn.com/br.svg",
-        "WALES" : "https://flagcdn.com/gb-wls.svg",
-        "NETHERLANDS" : "https://flagcdn.com/nl.svg",
-        "TUNISIA" : "https://flagcdn.com/tn.svg",
-        "POLAND" : "https://flagcdn.com/pl.svg",
-        "JAPAN" : "https://flagcdn.com/jp.svg",
-        "CROATIA" : "https://flagcdn.com/hr.svg",
-        "CAMEROON" : "https://flagcdn.com/cm.svg",
-        "KOREA REPUBLIC" : "https://flagcdn.com/kr.svg",
-        "ECUADOR" : "https://flagcdn.com/ec.svg",
-        "IRAN" : "https://flagcdn.com/ir.svg",
-        "AUSTRALIA" : "https://flagcdn.com/au.svg",
-        "SAUDI ARABIA" : "https://flagcdn.com/sa.svg",
-        "CANADA" : "https://flagcdn.com/ca.svg",
-        "COSTA RICA" : "https://flagcdn.com/cr.svg",
-        "GHANA" : "https://flagcdn.com/gh.svg",
-        "SERBIA" : "https://flagcdn.com/rs.svg",
-    }
-    
-    df_matches["flag"] = df_matches["team"].map(flags)
-    df_matches["opponent_flag"] = df_matches["opponent"].map(flags)
-    
     return df_matches

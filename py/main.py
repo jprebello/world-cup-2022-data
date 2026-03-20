@@ -12,6 +12,6 @@ df_teams = process_teams(df_matches)
 df_competition = process_competition(df_matches, df_teams)
 
 # salvar JSONs
-df_matches.to_json("matches.json", orient="records", indent=4, date_format="iso")
-df_teams.to_json("teams.json", orient="records", indent=4)
-df_competition.to_json("competition.json", orient="records", indent=4)
+df_matches.to_json("../json/matches.json", orient="records", indent=4, date_format="iso")
+df_teams.to_json("../json/teams.json", orient="records", indent=4)
+df_competition.to_json("../json/competition.json", orient="records", indent=4)

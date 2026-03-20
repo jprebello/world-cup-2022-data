@@ -40,7 +40,8 @@
         "attempts_on_target_pct":46.0,
         "goal_conversion_rate":14.0,
         "passes_accuracy_pct":88.0,
-        "total_cards":16
+        "total_cards":16,
+        "flag":"https:\/\/flagcdn.com\/ar.svg"
     },
     {
         "team":"AUSTRALIA",
@@ -83,7 +84,8 @@
         "attempts_on_target_pct":36.0,
         "goal_conversion_rate":16.0,
         "passes_accuracy_pct":79.0,
-        "total_cards":7
+        "total_cards":7,
+        "flag":"https:\/\/flagcdn.com\/au.svg"
     },
     {
         "team":"BELGIUM",
@@ -126,7 +128,8 @@
         "attempts_on_target_pct":32.0,
         "goal_conversion_rate":3.0,
         "passes_accuracy_pct":88.0,
-        "total_cards":5
+        "total_cards":5,
+        "flag":"https:\/\/flagcdn.com\/be.svg"
     },
     {
         "team":"BRAZIL",
@@ -169,7 +172,8 @@
         "attempts_on_target_pct":46.0,
         "goal_conversion_rate":9.0,
         "passes_accuracy_pct":90.0,
-        "total_cards":6
+        "total_cards":6,
+        "flag":"https:\/\/flagcdn.com\/br.svg"
     },
     {
         "team":"CAMEROON",
@@ -212,7 +216,8 @@
         "attempts_on_target_pct":52.0,
         "goal_conversion_rate":15.0,
         "passes_accuracy_pct":81.0,
-        "total_cards":9
+        "total_cards":9,
+        "flag":"https:\/\/flagcdn.com\/cm.svg"
     },
     {
         "team":"CANADA",
@@ -255,7 +260,8 @@
         "attempts_on_target_pct":17.0,
         "goal_conversion_rate":6.0,
         "passes_accuracy_pct":86.0,
-        "total_cards":8
+        "total_cards":8,
+        "flag":"https:\/\/flagcdn.com\/ca.svg"
     },
     {
         "team":"COSTA RICA",
@@ -298,7 +304,8 @@
         "attempts_on_target_pct":58.0,
         "goal_conversion_rate":25.0,
         "passes_accuracy_pct":79.0,
-        "total_cards":6
+        "total_cards":6,
+        "flag":"https:\/\/flagcdn.com\/cr.svg"
     },
     {
         "team":"CROATIA",
@@ -341,7 +348,8 @@
         "attempts_on_target_pct":35.0,
         "goal_conversion_rate":10.0,
         "passes_accuracy_pct":87.0,
-        "total_cards":8
+        "total_cards":8,
+        "flag":"https:\/\/flagcdn.com\/hr.svg"
     },
     {
         "team":"DENMARK",
@@ -384,7 +392,8 @@
         "attempts_on_target_pct":26.0,
         "goal_conversion_rate":3.0,
         "passes_accuracy_pct":88.0,
-        "total_cards":5
+        "total_cards":5,
+        "flag":"https:\/\/flagcdn.com\/dk.svg"
     },
     {
         "team":"ECUADOR",
@@ -427,7 +436,8 @@
         "attempts_on_target_pct":44.0,
         "goal_conversion_rate":15.0,
         "passes_accuracy_pct":83.0,
-        "total_cards":3
+        "total_cards":3,
+        "flag":"https:\/\/flagcdn.com\/ec.svg"
     },
     {
         "team":"ENGLAND",
@@ -470,7 +480,8 @@
         "attempts_on_target_pct":45.0,
         "goal_conversion_rate":22.0,
         "passes_accuracy_pct":89.0,
-        "total_cards":1
+        "total_cards":1,
+        "flag":"https:\/\/flagcdn.com\/gb-eng.svg"
     },
     {
         "team":"FRANCE",
@@ -513,7 +524,8 @@
         "attempts_on_target_pct":35.0,
         "goal_conversion_rate":16.0,
         "passes_accuracy_pct":87.0,
-        "total_cards":8
+        "total_cards":8,
+        "flag":"https:\/\/flagcdn.com\/fr.svg"
     },
     {
         "team":"GERMANY",
@@ -556,7 +568,8 @@
         "attempts_on_target_pct":36.0,
         "goal_conversion_rate":9.0,
         "passes_accuracy_pct":89.0,
-        "total_cards":3
+        "total_cards":3,
+        "flag":"https:\/\/flagcdn.com\/de.svg"
     },
     {
         "team":"GHANA",
@@ -599,7 +612,8 @@
         "attempts_on_target_pct":40.0,
         "goal_conversion_rate":20.0,
         "passes_accuracy_pct":82.0,
-        "total_cards":8
+        "total_cards":8,
+        "flag":"https:\/\/flagcdn.com\/gh.svg"
     },
     {
         "team":"IRAN",
@@ -642,7 +656,8 @@
         "attempts_on_target_pct":31.0,
         "goal_conversion_rate":11.0,
         "passes_accuracy_pct":75.0,
-        "total_cards":7
+        "total_cards":7,
+        "flag":"https:\/\/flagcdn.com\/ir.svg"
     },
     {
         "team":"JAPAN",
@@ -685,7 +700,8 @@
         "attempts_on_target_pct":31.0,
         "goal_conversion_rate":12.0,
         "passes_accuracy_pct":81.0,
-        "total_cards":6
+        "total_cards":6,
+        "flag":"https:\/\/flagcdn.com\/jp.svg"
     },
     {
         "team":"KOREA REPUBLIC",
@@ -728,7 +744,8 @@
         "attempts_on_target_pct":37.0,
         "goal_conversion_rate":10.0,
         "passes_accuracy_pct":86.0,
-        "total_cards":6
+        "total_cards":6,
+        "flag":"https:\/\/flagcdn.com\/kr.svg"
     },
     {
         "team":"MEXICO",
@@ -771,7 +788,8 @@
         "attempts_on_target_pct":36.0,
         "goal_conversion_rate":5.0,
         "passes_accuracy_pct":83.0,
-        "total_cards":7
+        "total_cards":7,
+        "flag":"https:\/\/flagcdn.com\/mx.svg"
     },
     {
         "team":"MOROCCO",
@@ -814,7 +832,8 @@
         "attempts_on_target_pct":28.0,
         "goal_conversion_rate":10.0,
         "passes_accuracy_pct":82.0,
-        "total_cards":10
+        "total_cards":10,
+        "flag":"https:\/\/flagcdn.com\/ma.svg"
     },
     {
         "team":"NETHERLANDS",
@@ -857,7 +876,8 @@
         "attempts_on_target_pct":40.0,
         "goal_conversion_rate":25.0,
         "passes_accuracy_pct":87.0,
-        "total_cards":13
+        "total_cards":13,
+        "flag":"https:\/\/flagcdn.com\/nl.svg"
     },
     {
         "team":"POLAND",
@@ -900,7 +920,8 @@
         "attempts_on_target_pct":23.0,
         "goal_conversion_rate":10.0,
         "passes_accuracy_pct":80.0,
-        "total_cards":7
+        "total_cards":7,
+        "flag":"https:\/\/flagcdn.com\/pl.svg"
     },
     {
         "team":"PORTUGAL",
@@ -943,7 +964,8 @@
         "attempts_on_target_pct":40.0,
         "goal_conversion_rate":19.0,
         "passes_accuracy_pct":88.0,
-        "total_cards":6
+        "total_cards":6,
+        "flag":"https:\/\/flagcdn.com\/pt.svg"
     },
     {
         "team":"QATAR",
@@ -986,7 +1008,8 @@
         "attempts_on_target_pct":29.0,
         "goal_conversion_rate":5.0,
         "passes_accuracy_pct":85.0,
-        "total_cards":7
+        "total_cards":7,
+        "flag":"https:\/\/flagcdn.com\/qa.svg"
     },
     {
         "team":"SAUDI ARABIA",
@@ -1029,7 +1052,8 @@
         "attempts_on_target_pct":31.0,
         "goal_conversion_rate":10.0,
         "passes_accuracy_pct":78.0,
-        "total_cards":14
+        "total_cards":14,
+        "flag":"https:\/\/flagcdn.com\/sa.svg"
     },
     {
         "team":"SENEGAL",
@@ -1072,7 +1096,8 @@
         "attempts_on_target_pct":27.0,
         "goal_conversion_rate":10.0,
         "passes_accuracy_pct":82.0,
-        "total_cards":7
+        "total_cards":7,
+        "flag":"https:\/\/flagcdn.com\/sn.svg"
     },
     {
         "team":"SERBIA",
@@ -1115,7 +1140,8 @@
         "attempts_on_target_pct":32.0,
         "goal_conversion_rate":16.0,
         "passes_accuracy_pct":84.0,
-        "total_cards":12
+        "total_cards":12,
+        "flag":"https:\/\/flagcdn.com\/rs.svg"
     },
     {
         "team":"SPAIN",
@@ -1158,7 +1184,8 @@
         "attempts_on_target_pct":31.0,
         "goal_conversion_rate":18.0,
         "passes_accuracy_pct":92.0,
-        "total_cards":2
+        "total_cards":2,
+        "flag":"https:\/\/flagcdn.com\/es.svg"
     },
     {
         "team":"SWITZERLAND",
@@ -1201,7 +1228,8 @@
         "attempts_on_target_pct":31.0,
         "goal_conversion_rate":14.0,
         "passes_accuracy_pct":85.0,
-        "total_cards":9
+        "total_cards":9,
+        "flag":"https:\/\/flagcdn.com\/ch.svg"
     },
     {
         "team":"TUNISIA",
@@ -1244,7 +1272,8 @@
         "attempts_on_target_pct":28.0,
         "goal_conversion_rate":3.0,
         "passes_accuracy_pct":79.0,
-        "total_cards":5
+        "total_cards":5,
+        "flag":"https:\/\/flagcdn.com\/tn.svg"
     },
     {
         "team":"UNITED STATES",
@@ -1287,7 +1316,8 @@
         "attempts_on_target_pct":33.0,
         "goal_conversion_rate":7.0,
         "passes_accuracy_pct":87.0,
-        "total_cards":5
+        "total_cards":5,
+        "flag":"https:\/\/flagcdn.com\/us.svg"
     },
     {
         "team":"URUGUAY",
@@ -1330,7 +1360,8 @@
         "attempts_on_target_pct":31.0,
         "goal_conversion_rate":6.0,
         "passes_accuracy_pct":83.0,
-        "total_cards":8
+        "total_cards":8,
+        "flag":"https:\/\/flagcdn.com\/uy.svg"
     },
     {
         "team":"WALES",
@@ -1373,6 +1404,7 @@
         "attempts_on_target_pct":29.0,
         "goal_conversion_rate":4.0,
         "passes_accuracy_pct":80.0,
-        "total_cards":6
+        "total_cards":6,
+        "flag":"https:\/\/flagcdn.com\/gb-wls.svg"
     }
 ]
