@@ -2,7 +2,7 @@ import { Link } from '@tanstack/react-router'
 
 function NavBar() {
     return (
-        <div className="navbar bg-primary shadow-sm">
+        <div className="navbar shadow-sm bg-linear-to-b from-[#871433] to-[#21050C]">
             <div className="navbar-start">
                 <div className="dropdown">
                 <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -10,7 +10,7 @@ function NavBar() {
                 </div>
                 <ul
                     tabIndex={-1}
-                    className="menu menu-sm dropdown-content bg-primary rounded-box z-1 mt-3 w-52 p-2 shadow">
+                    className="menu menu-sm dropdown-content bg-white rounded-box z-1 mt-3 w-52 p-2 shadow">
                     <li><Link to="/brackets" activeProps={{ className: 'underline' }}>Brackets</Link></li>
                     <li><Link to="/matches" activeProps={{ className: 'underline' }}>Matches</Link></li>
                     <li><Link to="/teams" activeProps={{ className: 'underline' }}>Teams</Link></li>
@@ -20,9 +20,10 @@ function NavBar() {
             </div>
             <div className="navbar-center justify-items-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 text-lg">
-                    <li><Link to="/brackets" className="active:bg-white active:rounded-lg active:text-primary" activeProps={{ className: 'underline bg-white text-primary' }}>Brackets</Link></li>
-                    <li><Link to="/matches" className="active:bg-white active:rounded-lg active:text-primary" activeProps={{ className: 'underline bg-white text-primary' }}>Matches</Link></li>
-                    <li><Link to="/teams" className="active:bg-white active:rounded-lg active:text-primary" activeProps={{ className: 'underline bg-white text-primary' }}>Teams</Link></li>
+                    <li><Link to="/brackets" className="active:bg-white active:rounded-lg active:text-white" activeProps={{ className: 'underline' }}>Brackets</Link></li>
+                    <li><Link to="/matches" className="active:bg-white active:rounded-lg active:text-white" activeProps={{ className: 'underline' }}>Matches</Link></li>
+                    <li><Link to="/teams" className="active:bg-white active:rounded-lg active:text-white" activeProps={{ className: 'underline' }}>Teams</Link></li>
+                    <li><Link to="/stats" className="active:bg-white active:rounded-lg active:text-white" activeProps={{ className: 'underline' }}>Stats</Link></li>
                     
                 </ul>
             </div>

@@ -12,9 +12,9 @@
   default: false;
   prefersdark: false;
   color-scheme: "light";
-  --color-base-100: #adaba7;
+  --color-base-100: #ffffff;
   --color-base-200: #adaba7;
-  --color-base-300: #ffffff;
+  --color-base-300: #C9A84C;
   --color-base-content: #ffffff;
   --color-primary: #79122E;
   --color-primary-content: oklch(30% 0.056 229.695);
@@ -42,4 +42,14 @@
   --noise: 0;
 }
 
+.card-primary-gradient {
+  @apply bg-linear-to-r from-[#871433] to-[#21050C] text-white;
+}
 
+.card-light {
+  @apply bg-base-100 text-black;
+}
+
+.card-hover-animation {
+  @apply transition-transform duration-200 hover:-translate-y-1 hover:shadow-lg cursor-pointer;
+}

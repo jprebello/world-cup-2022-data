@@ -131,3 +131,9 @@ export interface TeamCardProps {
   team: Team
   side: "home"|"away"
 }
+
+export interface StatCardProps {
+  title: string
+  value: string | number
+  subtitle?: string
+}

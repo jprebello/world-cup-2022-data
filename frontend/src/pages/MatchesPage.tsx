@@ -1,3 +1,4 @@
+import { Link } from '@tanstack/react-router'
 import MatchCard from '../components/MatchCardComponent'
 import matches from '../data/matches.json'
 
@@ -11,14 +12,14 @@ const uniqueMatches = matches.filter((match, index, self) =>
 
 function MatchesPage() {
   return (
-    <div className="flex flex-col items-center max-w-200 w-full mx-auto my-5 gap-2">
-      {uniqueMatches.map((match, i) => (
-        <MatchCard
-          key={i}
-          match={match}
-          alternateColor={i % 2 === 1}
-        />
-      ))}
+    <div className="min-h-screen bg-base-200">
+        <div className="flex flex-col items-center max-w-200 w-full mx-auto py-5 gap-4">
+          {uniqueMatches.map((match, i) => (
+            <Link key={i} to="/matches/detail" search={{ date: match.date, team: match.team, opponent: match.opponent }} className="w-full">
+              <MatchCard match={match} alternateColor={i % 2 === 1} />
+            </Link>
+          ))}
+      </div>
     </div>
   )
 }
